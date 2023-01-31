@@ -1,4 +1,4 @@
-# CLI application
+# CLI application <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;&nbsp;
 
 <h3>Functionality:</h3>
 <ul>
